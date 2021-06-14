@@ -1,6 +1,5 @@
 ## Медиа
-   ![Логотип](/media/ant_small.png
-
+!      [Логотип](/media/ant_small.png)
 
 ![Логотип](/media/Logo_r_cube.png)
 

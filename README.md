@@ -6,6 +6,9 @@ click~a - это веб-платформа для организации ста�
 
 ## Медиа
 ![Логотип](/media/Logo_r_cube.png)
+
+
+
 ![Логотип](/media/logo_ant.png)
 * Ссылка на презентацию: [clicka presentation](https://www.canva.com/design/DAEb7LS1iJE/0Ql3fC5ME1n2tAv5n003vw/view?utm_content=DAEb7LS1iJE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 * Ссылка на демо: [Live demo](http://aztec.sanchozzz.beget.tech/)

@@ -1,5 +1,5 @@
 ## Медиа
-![Логотип](/media/ant_avarage_of_avarage.png)
+![Логотип](/media/ant_avarage_of_avarage.png) 
 
 ![Логотип](/media/Logo_r_cube.png)
 
